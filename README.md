@@ -9,7 +9,7 @@
 > 💡 Have interactive, context-aware conversations about any webpage's content using advanced AI technology.
 
 <div align="center">
-  <img src="https://github.com/Sewasew2127/RAG-Web/blob/main/assets/Demo.mov" alt="Demo GIF" width="600px">
+  <img src="https://github.com/Sewasew2127/RAG-Web/blob/main/assets/Demo.gif" alt="Demo GIF" width="600px">
 </div>
 
 ## ✨ Features
