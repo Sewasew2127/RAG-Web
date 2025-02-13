@@ -9,7 +9,7 @@
 > 💡 Have interactive, context-aware conversations about any webpage's content using advanced AI technology.
 
 <div align="center">
-  <img src="https://github.com/sewasew2127/RAG-Web/assets/demo.mov" alt="Demo GIF" width="600px">
+  <img src="https://github.com/Sewasew2127/RAG-Web/blob/main/assets/Demo.mov" alt="Demo GIF" width="600px">
 </div>
 
 ## ✨ Features
@@ -95,7 +95,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  Made with ❤️ by [Your Name]
+  Made with ❤️ by Sewasew Hailu
 </div>
 
 
